@@ -1,0 +1,9 @@
+{
+  "name": "Aetheris Extreme 3D Portfolio",
+  "description": "An immersive, award-winning 3D portfolio featuring 4D animations, 360° interactions, and advanced shaders built with Three.js and React Fiber.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
